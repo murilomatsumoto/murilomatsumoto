@@ -1,16 +1,35 @@
-### Hi there 👋
+###Desenvolvedor de software | Python | RPA
 
-<!--
-**murilomatsumoto/murilomatsumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Referência
 
-Here are some ideas to get you started:
+ - [LinkedIn](https://www.linkedin.com/in/murilo-matsumoto-ramos-569ba486/)
+ - [Github](https://github.com/murilomatsumoto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Sobre mim
+
+Sou um desenvolvedor de software com experiência em Python, MongoDB e RPA (Automação de Processos Robóticos).
+Tenho experiência em gestão de projetos, desenvolvimento e planejamento estratégico. Possuo habilidade em gerenciar prazos, orçamentos, qualidade e recursos, garantindo o cumprimento das metas estabelecidas. Possuo habilidades em negociação e sou capaz de estabelecer uma boa comunicação e interação com a equipe. Tenho foco em resultados e trabalho de forma colaborativa para alcançar os objetivos estabelecidos.
+
+
+## Principais Competências
+
+- MongoDB
+- Python
+- RabbitMQ
+- Automação robótica de processos (RPA)
+- Gestão de equipes
+
+## Documentação
+
+
+
+Desenvolvedor de software | Python | RPA
+
+Sou um desenvolvedor de software com experiência em Python, MongoDB e RPA (Automação de Processos Robóticos).
+Tenho experiência em gestão de projetos, desenvolvimento e planejamento estratégico. Possuo habilidade em gerenciar prazos, orçamentos, qualidade e recursos, garantindo o cumprimento das metas estabelecidas. Possuo habilidades em negociação e sou capaz de estabelecer uma boa comunicação e interação com a equipe. Tenho foco em resultados e trabalho de forma colaborativa para alcançar os objetivos estabelecidos.
+
+
+
+
