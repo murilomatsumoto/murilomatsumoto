@@ -10,6 +10,10 @@
 - Python
 - RabbitMQ
 - Automação robótica de processos (RPA)
+- Docker
+- MySQL
+- OCR
+- Web Scraping
 - Gestão de equipes
 
 
