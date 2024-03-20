@@ -14,6 +14,12 @@
 - MySQL
 - OCR
 - Web Scraping
+- API RESTful
+- Flask/FastAPI/Django
+- Cloud
+- Power Automate
+- Botcity Framework
+- Jenkins
 - Team management
 
 
