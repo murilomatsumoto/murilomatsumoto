@@ -2,19 +2,19 @@
 <h1 align="left">Hi <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png?raw=true" height="30px">, I'm Murilo Matsumoto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilomatsumoto&color=yellow" alt="Profile views" /> </p>
 
-## 🔥 Desenvolvedor de software | Python | RPA 
+## 🔥 Software Developer | Python | RPA 
 
-### Principais Competências
+### Skills
 
 - MongoDB
 - Python
 - RabbitMQ
-- Automação robótica de processos (RPA)
+- Robotic Process Automation (RPA)
 - Docker
 - MySQL
 - OCR
 - Web Scraping
-- Gestão de equipes
+- Team management
 
 
 
