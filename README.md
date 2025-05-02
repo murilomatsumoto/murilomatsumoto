@@ -1,7 +1,3 @@
-<img align="right" height="400em" src="https://raw.githubusercontent.com/gist/murilomatsumoto/0f38d37978ce1987fdbaa17cd4a7e1a2/raw/04193d80e02fe7d61e5475f560c47ed9b3eb7c63/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png?raw=true" height="30px">, I'm Murilo Matsumoto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murilomatsumoto&color=yellow" alt="Profile views" /> </p>
-
 ## 🔥 Software Developer | Python | RPA 
 
 ### Skills
